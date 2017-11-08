@@ -1,0 +1,18 @@
+body{background-color: lightpink;
+     color:red;
+     }
+
+h1{color:blue;
+   background-color:lightpink;
+   font-family: fantasy;
+   font-size: 62pt;
+/*px, pt-1/72 inch ,em-current size ,% ,large ,xx-large*/
+
+}
+
+
+p{color:green;
+  background-color: lightpink;
+  font-weight: bold;/*strong*/
+  font-style: italic;/*em*/
+}
